@@ -148,6 +148,8 @@ distributed search engine
 
 [https://elasticsearch-py.readthedocs.io/en/master/](https://elasticsearch-py.readthedocs.io/en/master/)
 
+Chinese analyzer: [IK analysis for elasticsearch](https://github.com/medcl/elasticsearch-analysis-ik)
+
 
 
 ## Other
