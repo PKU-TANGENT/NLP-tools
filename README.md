@@ -78,6 +78,12 @@ sentence encode
 
 [https://github.com/hankcs/HanLP](https://github.com/hankcs/HanLP)
 
+### Chinese-Word-Vectors
+
+**Chinese** word2vec, provides 100+ Chinese Word Vectors (embeddings) trained with different **representations** (dense and sparse), **context features** (word, ngram, character, and more), and **corpora**.
+
+https://github.com/Embedding/Chinese-Word-Vectors
+
 
 ## Algorithm
 
